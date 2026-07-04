@@ -245,10 +245,11 @@ export default function App() {
                 <TypingText
                   texts={[
                     'Computer Science Student',
-                    'Cybersecurity Enthusiast',
+                    'Cybersecurity analysis',
                     'Python Developer',
                     'Web Developer',
-                    'AI Enthusiast',
+                    'frontend Developer',
+                    "software developer",
                   ]}
                 />
               </h2>
@@ -258,7 +259,7 @@ export default function App() {
               </p>
 
               <div className="ctaRow">
-                <a className="btn" href="#" onClick={(e) => e.preventDefault()}>
+                <a className="btn" href="Nobutu_Nayoto_CV.pdf" onClick={(e) => e.preventDefault()}>
                   Download CV
                 </a>
 
