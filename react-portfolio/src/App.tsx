@@ -250,6 +250,9 @@ export default function App() {
                     'Web Developer',
                     'frontend Developer',
                     "software developer",
+                    "Adobe Photoshop",
+                    "Adobe Illustrator",
+                    "Adobe After Effects",
                   ]}
                 />
               </h2>
